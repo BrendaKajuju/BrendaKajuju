@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendaKajuju
 - 👀 I’m interested in learning how to play around with code
-- 🌱 I’m currently learning full-stach software development
+- 🌱 I’m currently learning full-stack software development
 - 💞️ I’m looking to collaborate on any projects
 - 📫 To reach me, please email breekaju@gmail.com
 
