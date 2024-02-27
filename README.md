@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmdHd5NjBxc2RuNW5reGxmdGRmY2J1YWJybjBrOW56dDN3YWlrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif" height = "350" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBranZyZGJsbTdiZWluOHc1d2w2Nnl6bWJqcDdwbzd4d2ZwNXg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height = "350" width="600"/>
 </div>
 <h1>
 Hi, I’m Brenda Kajuju  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
