@@ -1,15 +1,24 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBranZyZGJsbTdiZWluOHc1d2w2Nnl6bWJqcDdwbzd4d2ZwNXg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height = "350" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBranZyZGJsbTdiZWluOHc1d2w2Nnl6bWJqcDdwbzd4d2ZwNXg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fRgwpuil2wHww7OXjT/giphy.gif" height = "100" width="200"/>
 </div>
 <h1>
-Hi, I’m Brenda Kajuju  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 👋 Greetings! I’m Brenda Kimathi Kajuju  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
 ### :electron: About Me :atom:
-I am a Full Stack Developer building Mobile/web applications and embedded systems
+I am a Full Stack Developer dedicated to crafting exceptional digital solutions in Mobile/web applications and embedded systems
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ -In frontend development, I meticulously sculpt user interfaces with HTML, CSS, and JavaScript to deliver seamless and captivating user experiences.
+
+ -In backend development, I dive into the intricacies of code, ensuring robustness, security, and efficiency in database management and system architecture.
+
+ -Equipped with a passion for collaboration and optimization, I thrive on working alongside talented teams to bring projects to fruition, infusing them with creativity and technical excellence.
+
+ -With a keen eye for detail and a commitment to thoroughness, I excel in documenting code changes and providing comprehensive reports to facilitate project transparency and success.
+
+ -Join me in embarking on a journey of digital innovation and excellence. Together, we'll create software solutions that captivate, inspire, and empower users worldwide. 
 - 🌱 I’m open to collaborating on any projects.
 - 📫 To reach me, please email breekaju@gmail.com
 
